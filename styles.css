@@ -2,12 +2,12 @@
     width: 200px;
     height: 500px;
     margin: 0 auto;
-    background: url(/assets/bag.png) center no-repeat;
+    background: url(assets/bag.png) center no-repeat;
     background-size: 80%;
 }
 
 .bag.burst{
-    background-image: url(/assets/bag-burst.png);
+    background-image: url(assets/bag-burst.png);
 }
 
 .bag-health{
